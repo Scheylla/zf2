@@ -1,4 +1,4 @@
-ZendSkeletonApplication
+Meu projeto em ZF2
 =======================
 
 Introduction
